@@ -17,7 +17,7 @@
 | --------   | -----:   | 
 |Accuracy of LogisticRegression is:| 0.6451502732240437|
 |Accuracy of KNeighborsClassifier is:| 0.5891393442622951|
-|Accuracy of SVC is:|0.744535519125683|
+|Accuracy of SVC is:|               0.7445355191256835|
 |Accuracy of DecisionTreeClassifier is: | 0.7612704918032787|
 |Accuracy of RandomForestClassifier is:| 0.8152322404371585|
 |Accuracy of AdaBoostClassifier is: |0.7855191256830601|
