@@ -1,6 +1,14 @@
-# Twitter-Airline-Sentiment-Analysis
-* 航班数据情感分析
-* 探索性分析文本数据
-* 文本数据可视化
-* 随机森林和决策树算法简单应用
-* 持续更新ing
+# Comparison of Machine Learning Classification Models and exploration analysis
+
+## We wish to compare ten Machine Learning Algorithms
+
+1. Binary Logistic Regression (BLR)
+2. KNN
+3. SVM
+4. Neural Network
+5. Naive Bayes
+6. Decision Tree
+7. Random Forest
+8. LDA
+9. Gradient Boosting
+10. XGB
